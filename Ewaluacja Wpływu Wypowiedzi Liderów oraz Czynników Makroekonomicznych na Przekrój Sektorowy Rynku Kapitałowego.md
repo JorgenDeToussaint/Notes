@@ -1,6 +1,7 @@
-# RAPORT KOŃCOWY: PROJEKT ANALITYCZNO-WDROŻENIOWY
-## Ewaluacja Wpływu Wypowiedzi Liderów oraz Czynników Makroekonomicznych na Przekrój Sektorowy Rynku Kapitałowego w Środowisku Azure Cloud
-**Kurs:** Business Data Analysis / Data Engineering  
+
+
+Jakub Wierzbicki, Mateusz Zalewski
+
 **Środowisko:** Lokalny Pipeline ETL (Polars/VADER) $\rightarrow$ Azure ADLS Gen2 $\rightarrow$ Azure ML Clusters  
 **Horyzont Czasowy:** 2016 – 2026  
 
