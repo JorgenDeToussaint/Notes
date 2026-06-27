@@ -1,0 +1,1 @@
+Mimo jakiegoś mniejszego użycia AI, lenistwo kognitywne nadal występuje I potępuje, podsumowania AI rónież są wkurwiająće.
