@@ -4,3 +4,16 @@ alternatywnie skupic się już mostly na programowaniu ale bardziej z łba i na 
 
 Dzisiaj już troche więcej przeczytane i douczone, ale jeszcze implementacja
 ale kinda? Pora odpocząć, at least przez temperature.
+
+---
+
+Przeglądałem ostatnio rzeczy napisane jeszcze w okresie przed studiami, zarówno wiersze, fantastykę. To, co odkopałem. Działam na co dzień wokół rzeczy twórczych chociaż z perspektywy raczej organizacyjnej. Znalazłem jeden esej, pisany w sumie na olimpiade filozoficzną. W którym w sumie wyminąłem temat główny i napsiałem w dwa tygodnie, bo przerósł mnie temat psyche i zacząłem go z jakiegoś powodu pisać cut upem. Traktował on o możliwościach tworzenia w obecnym świecie, co nam to daje, oraz jakie napotykamy trudności powiązane z zostaniem twórcą. Jeden wątek wtedy ledwie kiełkował, ponieważ to była końcowka 2022 roku: Sztuczna inteligencja i modele generatywne.
+
+Byłem na tyle sprytny żeby stwierdzić że wylew chłamu i masówki jest przewidywalny, chociaż nie sąziłem że stanie się on już wszywką zaczepioną do organizmu na poziomie choćy pierwszego wyniku wyszukania. Sam również częściowo stałem się tego produktem. Ułatwiła mi wiele rzeczy, ale nawet obecne pisanie bardziej odczuwam jako pobudzanie nieaktywnego mięśnia, pomimo tego że nie użyłem jej do tworzenia sztuk wyzwolonych. Użytkowe skrypty natomiast stały się normą, ale to na kiedy indziej.
+
+Do motywu ćwiczeń duchowych zapraszam was do lektury pierre'a hadota, ponieważ czuje, że jest to na ten moment pomijalny fragment w kontekście aktualizacji myśli.
+
+## Mimesis, AI i dolina niesamowitości
+
+Benchmarkiem umiejętności artysty - z pominięciem jego wizji - była przede wszystkim zdolność do odwzorowania realizmu, niezależnie od tego co później z nim robił. Rzeczy które przypominają rzeczywistość, ale są wybrakowane, wpadają w doline niesamowitości. jedna błędna perspektywa obiektu, lalka kartezujsza itd. 
+Wraz z rozwojem internetu owe doświadczenia poszerzyły się dzięki filmikom takim jak "I feel fatnastic". Imitacje zaczęły stawać się coraz bardziej realne, mamy już roboty serwujące, robo-psy. Roboty uczone pod pracę w fabrykach. Nawet ludzkie kompetencje zaczynają być nie-ludzkie przez ilość treśći AI na youtubie. Utkneliśmy w dolinie niesamowitości na każdym kroku. dosyć ironiczne, że rzeczy te są dobrymi narzędziami, ale przy tej wszechobecności... staje się nową rzeczywistością. 
