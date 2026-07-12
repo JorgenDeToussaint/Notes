@@ -17,3 +17,13 @@ Do motywu ćwiczeń duchowych zapraszam was do lektury pierre'a hadota, poniewa�
 
 Benchmarkiem umiejętności artysty - z pominięciem jego wizji - była przede wszystkim zdolność do odwzorowania realizmu, niezależnie od tego co później z nim robił. Rzeczy które przypominają rzeczywistość, ale są wybrakowane, wpadają w doline niesamowitości. jedna błędna perspektywa obiektu, lalka kartezujsza itd. 
 Wraz z rozwojem internetu owe doświadczenia poszerzyły się dzięki filmikom takim jak "I feel fatnastic". Imitacje zaczęły stawać się coraz bardziej realne, mamy już roboty serwujące, robo-psy. Roboty uczone pod pracę w fabrykach. Nawet ludzkie kompetencje zaczynają być nie-ludzkie przez ilość treśći AI na youtubie. Utkneliśmy w dolinie niesamowitości na każdym kroku. dosyć ironiczne, że rzeczy te są dobrymi narzędziami, ale przy tej wszechobecności... staje się nową rzeczywistością. 
+
+---
+Rantować nie trzeba umieć, ale wypada, bo ostatnio argumentacja kuleje. No właśnie.
+Po co
+po co.
+Nie zwolnie od tak .
+Aura, robi robote w momencie kiedy człowiek próbuje funkcjonować. Zrobić krok, drugi. Doprecyzować myśli
+
+Napisać w końcu ten def placeholder(str -> none):
+napisać w końcu a = pl.DataFrame()
