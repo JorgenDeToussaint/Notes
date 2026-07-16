@@ -27,3 +27,10 @@ Aura, robi robote w momencie kiedy człowiek próbuje funkcjonować. Zrobić kro
 
 Napisać w końcu ten def placeholder(str -> none):
 napisać w końcu a = pl.DataFrame()
+
+---
+x-d
+
+dyso w chuj
+pozostałości polskiego monumentalizmu jako rozjebane butelki alkoholu
+strumień świadomości nieograniczony jednym zmysłem, a wyłącznie tym, że tych słów bym nie wypowiedział.  a teraz  zrób z tego skręt. sie zjebał mi osrodek mowy, łatwiej mi to pisać, udając, że nie istnieje. nie potrafie zintegorwać w tym momencie dobrego i złebo. nie chce wystawić się na te szarość. nawet je śli moge tak napisać pl/DataGtamenie jesteśoryginalny sam z siebie. ale możesz zrobić cooś oryginalnego. just because.  ciekawie b było nadzorować i karać.dlaczego boje sie głosu, zwłaszcza własnego. to też ożna odtworzyć.
