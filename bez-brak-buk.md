@@ -34,3 +34,9 @@ x-d
 dyso w chuj
 pozostałości polskiego monumentalizmu jako rozjebane butelki alkoholu
 strumień świadomości nieograniczony jednym zmysłem, a wyłącznie tym, że tych słów bym nie wypowiedział.  a teraz  zrób z tego skręt. sie zjebał mi osrodek mowy, łatwiej mi to pisać, udając, że nie istnieje. nie potrafie zintegorwać w tym momencie dobrego i złebo. nie chce wystawić się na te szarość. nawet je śli moge tak napisać pl/DataGtamenie jesteśoryginalny sam z siebie. ale możesz zrobić cooś oryginalnego. just because.  ciekawie b było nadzorować i karać.dlaczego boje sie głosu, zwłaszcza własnego. to też ożna odtworzyć.
+
+
+---
+Layer 1 OSI -> warstwa czysto fizyczna, która opisuje w jaki sposób w najbardziej prymitywnym wariancie działa przenoszenie się danych z jednego urządzenia na drugie. W tym miejscu może wystąpić kolizja danych i jakikolwiek hub pozwala tylko na jednotorowy broadcasting(szerokie nadawanie) i jakakolwiek inna opcja powadzi do interferencji sygnałów a tym samym utraty pakietów.
+
+Layer 2 OSI -> sprawa zaczyna się komplikować, tzn: dochodzi adres MAC urządzeń i tworzy się cały link komunikacji zawierający swój prefix, adres nadawcy i do dostarczenia, jeszcze jedno gówno, oraz właściwy pakiet do 1500 bitów. Ogólnie beka że to jedno prowadzi tak konsekwentnie do stworzenia pełnoprawnych łącz, bo tutaj już można symultanicznie nadawać sygnały i nie tylko broadcastingi. oprócz tego mamy ewolucję huba do switcha(który rozróżnia na swojej sieci urządzenia, jako kolejne elementy z adresem mac różniącym się w ostatniej sekcji.)
